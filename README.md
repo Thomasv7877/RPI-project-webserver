@@ -45,6 +45,6 @@ sudo /boot/provisioning/srv001-PI.sh
 
 Klaar! De installatie wordt automatisch doorlopen. In mijn geval is de pi nu publiek bereikbaar op breucq.ddns.net/drupal (of wordpress).
 
-![afb admin panel drupal](link/naar/jpg1)
+![afb admin panel drupal](drupal.jpg)
 
-![afb pi naast router](link/naar/jpg2)
+![afb pi naast router](20190414_152055.jpg)
