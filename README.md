@@ -2,7 +2,7 @@
 
 ## Inleiding:
 
-Deeltaak 2 van Projecten II bestaat uit het volledig automatiseren van een webserver opstelling, typisch wordt dit met Vagrant gedaan. Ik had het idee om de provisioning scripts uit deze taak toe te passen op een Rapsberry PI om een persoonlijke webserver op te zetten. Een extra hierbij is de service van www.noip.com om een hostnaam op te zetten en om het probleem van een wijzigend publiek ip van een thuisrouter te omzeilen. Dit alles geeft een volledig functionele webserver voor een prijskaartje van onder 50 EUR, dat is niet te overzien.
+Deeltaak 2 van het vak Projecten II (HoGent) bestaat uit het volledig automatiseren van een webserver opstelling, typisch wordt dit met Vagrant gedaan. Ik had het idee om de provisioning scripts uit deze taak toe te passen op een Rapsberry PI om een persoonlijke webserver op te zetten. Een extra hierbij is de service van www.noip.com om een hostnaam op te zetten en om het probleem van een wijzigend publiek ip van een thuisrouter te omzeilen. Dit alles geeft een volledig functionele webserver voor een prijskaartje van onder 50 EUR, dat is niet te overzien.
 
 ## Voorbereiding (no-ip en port forwarding):
 
@@ -45,6 +45,6 @@ sudo /boot/provisioning/srv001-PI.sh
 
 Klaar! De installatie wordt automatisch doorlopen. In mijn geval is de pi nu publiek bereikbaar op breucq.ddns.net/drupal (of wordpress).
 
-![afb admin panel drupal](drupal.jpg)
+![afb admin panel drupal](assets/images/drupal.jpg)
 
-![afb pi naast router](20190414_152055.jpg)
+![afb pi naast router](assets/images/20190414_152055.jpg)
