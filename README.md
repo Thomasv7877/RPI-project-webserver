@@ -1,4 +1,4 @@
-# Initiatief: geautomatiseerde webserver op een raspberry PI
+# Geautomatiseerde webserver op een raspberry PI
 
 ## Inleiding:
 
